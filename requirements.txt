@@ -1,0 +1,5 @@
+selenium==4.20.0
+pillow
+numpy
+opencv-python
+pytesseract
